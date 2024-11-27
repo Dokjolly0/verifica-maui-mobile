@@ -1,0 +1,6 @@
+Create venv
+
+source venv/Scripts/activate
+pip install flask_sqlalchemy
+pip install flask
+
