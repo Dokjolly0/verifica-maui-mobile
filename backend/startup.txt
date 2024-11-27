@@ -4,3 +4,9 @@ source venv/Scripts/activate
 pip install flask_sqlalchemy
 pip install flask
 
+http://127.0.0.1:5000/users/4 - delate
+http://127.0.0.1:5000/apartments/1 - put
+http://127.0.0.1:5000/apartments/8 - delate
+http://127.0.0.1:5000/bookings/1 - put 
+http://127.0.0.1:5000/bookings - get
+http://127.0.0.1:5000/bookings/1 - delete
